@@ -1,5 +1,5 @@
 {
-  "SoftwareVersion": "5",
+  "SoftwareVersion": "1",
   "SoftwareUrl":"https://github.com/CreepKing8288/HydraProject/releases/download/Rel/Hydra.zip",
   "Status":"True",
   "Changelog":"[+] NEW"
