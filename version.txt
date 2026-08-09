@@ -1,6 +1,6 @@
 {
-  "SoftwareVersion": "1.5",
+  "SoftwareVersion": "1.6",
   "SoftwareUrl":"https://github.com/CreepKing8288/HydraProject/releases/download/Rel/Hydra.zip",
   "Status":"True",
-  "Changelog":"[+] NEW \n[+] Fix Keysystem Bugs"
+  "Changelog":"[+] NEW \n[+] Fix Keysystem Bugs [IP Issue] \n[+] Fix Virsual bugs"
 }
