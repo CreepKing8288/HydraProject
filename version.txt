@@ -1,6 +1,6 @@
 {
-  "SoftwareVersion": "3.1",
+  "SoftwareVersion": "3.2",
   "SoftwareUrl":"https://github.com/CreepKing8288/HydraProject/releases/download/Rel/Hydra.zip",
   "Status":"True",
-  "Changelog":"[+] NEW \n[+] Fix Keysystem Bugs [IP Issue] \n[+] Fix Virsual bugs \n[+] Account Page [remove key device]"
+  "Changelog":"[+] Fix Virsual bugs \n[+] Account Page [remove key device] \n[+] Pre-Built Script Tab \n[+] Discord Rich Presence"
 }
